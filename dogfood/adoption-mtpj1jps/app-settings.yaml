@@ -1,2 +1,2 @@
-feature_flags: v2 # changed
+feature_flags: v3 # drifted in CAS window
 log_level: info
