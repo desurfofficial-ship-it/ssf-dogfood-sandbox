@@ -1,2 +1,0 @@
-env: sandbox
-replicas: 9 # concurrent actor
