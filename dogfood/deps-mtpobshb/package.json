@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "left_pad": "1.2.0"
+  }
+}
