@@ -1,4 +1,4 @@
 env: sandbox
 service: api
-replicas: 3
-# hotfix by human: bumped replicas under load
+replicas: 9
+# concurrent actor
