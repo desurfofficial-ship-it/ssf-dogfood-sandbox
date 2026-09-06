@@ -1,2 +1,2 @@
-feature_flags: v1
+feature_flags: v2 # changed
 log_level: info
