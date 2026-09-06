@@ -1,4 +1,4 @@
 env: sandbox
 service: api
-replicas: 7
+replicas: 3
 # agent A
