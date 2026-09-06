@@ -1,4 +1,0 @@
-env: sandbox
-service: api
-replicas: 3
-# agent A
