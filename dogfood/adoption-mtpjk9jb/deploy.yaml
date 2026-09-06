@@ -1,3 +1,3 @@
 env: sandbox
 service: api
-replicas: 1
+replicas: 3
